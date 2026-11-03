@@ -10,7 +10,9 @@ Using movie data spanning four decades (1980–2019), I set out to investigate t
 
 # Dataset
 Source: (https://www.kaggle.com/datasets/danielgrijalvas/movies)
+
 Format: CSV
+
 File: Data/movies.csv
 
 # SQL Analysis
