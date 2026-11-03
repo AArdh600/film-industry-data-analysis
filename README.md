@@ -18,7 +18,9 @@ SQL Server Management Studio was used to explore the dataset.
 
 A range of techniques were utilised including filtering, aggregations, joins, window functions, common table expressions etc.
 
-The SQL queries can be found in Movie Project.sql.
+The SQL queries can be found in Movie Project.sql (https://github.com/AArdh600/film-industry-data-analysis/blob/main/SQL/Movie%20Project.sql).
 
 # Power BI Dashboard 
 Power BI was used to develop an interactive dashboard to communicate insights across different decades
+
+The interactive dashboard can be found at (https://github.com/AArdh600/film-industry-data-analysis/blob/main/Power%20BI/Movie%20Power%20BI%20Project.pbix)
