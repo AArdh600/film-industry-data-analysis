@@ -14,13 +14,11 @@ Format: CSV
 File: Data/movies.csv
 
 # SQL Analysis
-SQL Server Management Studio was used to explore the dataset.
-
-A range of techniques were utilised including filtering, aggregations, joins, window functions, common table expressions etc.
+SQL Server Management Studio was used to query and analyse the dataset, applying aggregations, joins, common table expressions and window functions to answer various questions, calculate profitability and uncover industry trends.
 
 The SQL queries can be found in Movie Project.sql (https://github.com/AArdh600/film-industry-data-analysis/blob/main/SQL/Movie%20Project.sql).
 
 # Power BI Dashboard 
-Power BI was used to develop an interactive dashboard to communicate insights across different decades
+Developed an interactive Power BI dashboard, using Power Query for data transformation and cleaning, DAX to create custom measures, and incorporating decade-based slicers and visualisations to communicate key findings.
 
 The interactive dashboard can be found at (https://github.com/AArdh600/film-industry-data-analysis/blob/main/Power%20BI/Movie%20Power%20BI%20Project.pbix)
